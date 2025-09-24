@@ -1,16 +1,30 @@
-# 🌸 My Cute Portfolio 🌸
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Cute Portfolio</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>🌸 Welcome to My Portfolio 🌸</h1>
+    </header>
 
-Hi there! 👋  
-Welcome to my personal portfolio website. This is where I showcase my projects, hobbies, and a little bit of me.  
+    <section>
+        <h2>About Me</h2>
+        <p>Hello! I'm Ameerah, a budding web developer.</p>
+    </section>
 
-## 💻 About Me
-I'm Ameerah , a budding web developer exploring the world of HTML, CSS, and JavaScript. I love creating cute and colorful websites that make people smile! 🌷
+    <section>
+        <h2>Projects</h2>
+        <p>Add your projects here!</p>
+    </section>
 
-## ✨ Features of My Portfolio
-- Simple and easy-to-navigate layout
-- Cute and colorful design 🎀
-- Responsive for all screen sizes 📱
-- Fun animations and hover effects ✨
-- Contact section to get in touch 💌
+    <footer>
+        <p>© 2025 Ameerah</p>
+    </footer>
 
-## 📂 Project Structure
+    <script src="js/script.js"></script>
+</body>
+</html>
