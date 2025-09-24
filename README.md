@@ -3,8 +3,7 @@
 Hi there! 👋  
 Welcome to my personal portfolio website! This is where I showcase my projects, hobbies, and a little slice of me. 🌷  
 
-You can also view the live site here: [My Cute Portfolio on Netlify](https://your-netlify-link.netlify.app) 💻✨
-
+You can also view the live site here: https://ameerahdavisportfolio.netlify.app/
 ---
 
 ## 💻 About Me
